@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/User/Documents/C++/win_ui/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -IC:/Users/User/Documents/C++/win_ui/./include -g -o CMakeFiles\\win_ui.dir\\src\\main.c.obj -c C:\\Users\\User\\Documents\\C++\\win_ui\\src\\main.c",
+  "file": "C:\\Users\\User\\Documents\\C++\\win_ui\\src\\main.c",
+  "output": "CMakeFiles\\win_ui.dir\\src\\main.c.obj"
+},
+{
+  "directory": "C:/Users/User/Documents/C++/win_ui/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -IC:/Users/User/Documents/C++/win_ui/./include -g -o CMakeFiles\\win_ui.dir\\src\\win_ui_window.c.obj -c C:\\Users\\User\\Documents\\C++\\win_ui\\src\\win_ui_window.c",
+  "file": "C:\\Users\\User\\Documents\\C++\\win_ui\\src\\win_ui_window.c",
+  "output": "CMakeFiles\\win_ui.dir\\src\\win_ui_window.c.obj"
+}
+]

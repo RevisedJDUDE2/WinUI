@@ -1,0 +1,8 @@
+.cache/
+.cache/*
+build/CMakeFiles
+build/.ninja_deps
+build/.ninja_log
+build/cmake_install.cmake
+build/CMakeCache.txt
+build/win_ui.exe
