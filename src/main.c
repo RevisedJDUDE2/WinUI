@@ -5,6 +5,10 @@ int main() {
 
   while(!win_ui_should_close(window)) {
     win_ui_poll_events(window);
+    win_ui_set_bg_color(window, 255, 0, 0);
+    if(GetAsyncKeyState(VK_SPACE) & 0x8000) {
+      win_ui_set_bg_color(window, 0, 255, 0);
+    };
   }
 
   win_ui_destroy_window(window);
